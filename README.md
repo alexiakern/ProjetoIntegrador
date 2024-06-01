@@ -3,12 +3,6 @@
 OBJETIVO DO PROJETO
 Desenvolver e implementar um Sistema de Banco de Dados eficiente para auxiliar no gerenciamento do estoque da empresa. Isso inclui a criação de um sistema que possa armazenar informações detalhadas sobre os produtos, como sua validade e seus fornecedores, garantindo assim um abastecimento adequado e uma melhor compreensão das demandas do mercado.
 
-DESCRIÇÃO DOS USUÁRIOS
-(Ator) Proprietário - Responsável pela Loja
-(Ator) Administrador - Gerencia os funcionários, cuida da parte administrativa.
-(Ator) Vendedor - Profissional que executa vendas.
-(Ator) Usuário – Funcionário.
-
 NESCESSIDADES APRESENTADAS
 Foi feita uma pesquisa interna nos setores da empresa entrevistando o proprietário e seus funcionários para entender o que era necessário de melhorias em relação ao estoque. A partir desta pesquisa foi possível filtrar as necessidades da empresa e elaborar um plano de ação para o desenvolvimento do banco de dados. O sistema atual era ineficiente e propenso a erros, resultando em excesso ou falta de produtos em determinados momentos. Os funcionários também apresentavam dificuldades para acessar as informações.
 
